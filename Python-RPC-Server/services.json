@@ -1,0 +1,80 @@
+{
+  "is_even": {
+    "serviceName": "is_even",
+    "parameters": [
+      {
+        "position": 1,
+        "type": "int"
+      }
+    ],
+    "server": " http://5ddfd841.ngrok.io",
+    "returnType": "boolean"
+  },
+  "find_count": {
+    "serviceName": "find_count",
+    "parameters": [
+      {
+        "position": 1,
+        "type": "string"
+      },
+      {
+        "position": 2,
+        "type": "char"
+      }
+    ],
+    "server": " http://5ddfd841.ngrok.io",
+    "returnType": "int"
+  },
+  "find_sum": {
+    "serviceName": "find_sum",
+    "parameters": [
+      {
+        "position": 1,
+        "type": "array[array[boolean]]"
+      }
+    ],
+    "server": " http://5ddfd841.ngrok.io",
+    "returnType": "array[boolean]"
+  },
+  "add_account": {
+    "serviceName": "add_account",
+    "parameters": [
+      {
+        "position": 1,
+        "type": "string"
+      },
+      {
+        "position": 2,
+        "type": "int"
+      }
+    ],
+    "server": " http://5ddfd841.ngrok.io",
+    "returnType": "string"
+  },
+  "update": {
+    "serviceName": "update",
+    "parameters": [
+      {
+        "position": 1,
+        "type": "string"
+      },
+      {
+        "position": 2,
+        "type": "int"
+      }
+    ],
+    "server": " http://5ddfd841.ngrok.io",
+    "returnType": "string"
+  },
+  "get_account": {
+    "serviceName": "get_account",
+    "parameters": [
+      {
+        "position": 1,
+        "type": "string"
+      }
+    ],
+    "server": " http://5ddfd841.ngrok.io",
+    "returnType": "int"
+  }
+}

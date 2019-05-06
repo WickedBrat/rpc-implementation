@@ -7,7 +7,7 @@ The properties of a RPC has been implemented in this project.
 The components of an RPC thus implemented are present in the corresponding folders.
 
 - RPC Server
-  - [RPC Server in Python](https://github.com/WickedBrat/rpc-implementation/tree/master/Py-RPC-Server)
+  - [RPC Server in Python](https://github.com/WickedBrat/rpc-implementation/tree/master/Python-RPC-Server)
   - [RPC Server in NodeJS](https://github.com/WickedBrat/rpc-implementation/tree/master/RPC-Server)
 - [RPC Client](https://github.com/WickedBrat/rpc-implementation/tree/master/RPC-Client)
 - [Registery Service](https://github.com/WickedBrat/rpc-implementation/tree/master/Registry-Services)
